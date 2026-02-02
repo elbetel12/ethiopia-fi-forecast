@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+# Data files
+data/raw/
+*.xlsx
+*.xls
+*.csv  # Optional: exclude raw CSVs too if they're large
+
+
+# Distribution / packaging
 .Python
 build/
 develop-eggs/
