@@ -1,0 +1,11 @@
+{
+  "latest_account_ownership": {
+    "value": 9.45,
+    "date": "2024-11-29",
+    "unit": "percent"
+  },
+  "average_annual_growth_account_ownership": {
+    "value": 4.457930444267603,
+    "unit": "percentage points per year"
+  }
+}
