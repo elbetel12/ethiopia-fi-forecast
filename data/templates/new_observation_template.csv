@@ -1,0 +1,2 @@
+record_type,pillar,indicator,indicator_code,value_numeric,unit,observation_date,start_date,end_date,source_name,source_url,source_type,confidence,original_text,notes,collected_by,collection_date
+observation,Access,Mobile Money Active Users,MM_ACTIVE_USERS,35000000,count,2024-12-31,2024-01-01,2024-12-31,National Bank of Ethiopia,https://nbe.gov.et/reports/,official_report,high,35 million active mobile money users reported as of Dec 2024,Quarterly active users data would provide better trend analysis,[Your Name],2026-01-28
