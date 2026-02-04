@@ -1,0 +1,10 @@
+{
+  "events_count": 0,
+  "indicators_count": 0,
+  "impact_relationships": 23,
+  "average_impact_magnitude": null,
+  "average_lag_months": 9.956521739130435,
+  "validation_mae": 17.0,
+  "validation_rmse": 20.479257799051215,
+  "refinements_applied": 0
+}
