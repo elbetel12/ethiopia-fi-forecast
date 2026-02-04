@@ -1,11 +1,16 @@
 {
   "latest_account_ownership": {
-    "value": 9.45,
+    "value": 49.0,
     "date": "2024-11-29",
+    "year": 2024,
     "unit": "percent"
   },
-  "average_annual_growth_account_ownership": {
-    "value": 4.457930444267603,
-    "unit": "percentage points per year"
+  "event_count": 8,
+  "events_by_category": {
+    "policy": 3,
+    "product_launch": 2,
+    "market_entry": 1,
+    "infrastructure": 1,
+    "milestone": 1
   }
 }
