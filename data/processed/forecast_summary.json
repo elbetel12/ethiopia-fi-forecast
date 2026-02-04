@@ -1,0 +1,13 @@
+{
+  "forecast_period": "2025-2027",
+  "last_historical_year": 2024,
+  "access_2024": 49.0,
+  "usage_2024": 35.0,
+  "access_2027_base": 60.5054945054917,
+  "usage_2027_base": 42.85714285714221,
+  "access_growth_2024_2027": 11.505494505491697,
+  "usage_growth_2024_2027": 7.8571428571422075,
+  "access_cagr": 7.28349459989297,
+  "usage_cagr": 6.9838912459781355,
+  "generated_date": "2026-02-04 12:42:59"
+}
